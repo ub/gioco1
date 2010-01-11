@@ -1,0 +1,266 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-Arguments</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">gioco1</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-Executable</variable>
+  <value type="QString">plasmoidviewer</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">plasmoidviewer</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserName</variable>
+  <value type="QString">plasmoidviewer</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-WorkingDirectory</variable>
+  <value type="QString">$BUILDDIR</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">ProjectExplorer.CustomExecutableRunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">all</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-all</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">all</value>
+   <value key="buildDirectory" type="QString">/home/baranov/plasmasrc/gioco1/qtcreator-debug-build</value>
+   <value key="msvcVersion" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-all-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">all</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SACOOCyGKN,guid=22391df03225c940699e3d754b479b36</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">FOO_ENV=foo_env</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/gpg-LU0iSH/S.gpg-agent:1791:1</value>
+    <value type="QString">GS_LIB=/home/baranov/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/baranov/.gtkrc-2.0:/home/baranov/.gtkrc-2.0-kde4:/home/baranov/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/baranov/.gtkrc::/home/baranov/.kde/share/config/gtkrc</value>
+    <value type="QString">HOME=/home/baranov</value>
+    <value type="QString">KDEDIR=/usr</value>
+    <value type="QString">KDEDIRS=/usr:/home/baranov/compiled_plasmoids</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=1000</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LANGUAGE=</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:/home/baranov/compiled_plasmoids/lib</value>
+    <value type="QString">LIBGL_DRIVERS_PATH=/usr/lib/dri</value>
+    <value type="QString">LOCALAPPSPREFIX=/home/baranov/compiled_plasmoids</value>
+    <value type="QString">LOGNAME=baranov</value>
+    <value type="QString">PATH=/home/baranov/compiled_plasmoids/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PKG_CONFIG_PATH=/home/baranov/compiled_plasmoids/lib/pkgconfig:/home/baranov/compiled_plasmoids/share/pkgconfig</value>
+    <value type="QString">PWD=/home/baranov/Documents</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/baranov/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/deep42:@/tmp/.ICE-unix/1848,unix/deep42:/tmp/.ICE-unix/1848</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=1790</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/ssh-xaybcz1744/agent.1744</value>
+    <value type="QString">USER=baranov</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_THEME=oxy-white</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share:/home/baranov/compiled_plasmoids/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=35032c92a1523d1d4a4bb0004adb7f33-1262983989.863057-859261633</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList"/>
+   <value key="abstractProcess.command" type="QString">make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/baranov/plasmasrc/gioco1/qtcreator-debug-build</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-all-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">all</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SACOOCyGKN,guid=22391df03225c940699e3d754b479b36</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">FOO_ENV=foo_env</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/gpg-LU0iSH/S.gpg-agent:1791:1</value>
+    <value type="QString">GS_LIB=/home/baranov/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/baranov/.gtkrc-2.0:/home/baranov/.gtkrc-2.0-kde4:/home/baranov/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/baranov/.gtkrc::/home/baranov/.kde/share/config/gtkrc</value>
+    <value type="QString">HOME=/home/baranov</value>
+    <value type="QString">KDEDIR=/usr</value>
+    <value type="QString">KDEDIRS=/usr:/home/baranov/compiled_plasmoids</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=1000</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LANGUAGE=</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:/home/baranov/compiled_plasmoids/lib</value>
+    <value type="QString">LIBGL_DRIVERS_PATH=/usr/lib/dri</value>
+    <value type="QString">LOCALAPPSPREFIX=/home/baranov/compiled_plasmoids</value>
+    <value type="QString">LOGNAME=baranov</value>
+    <value type="QString">PATH=/home/baranov/compiled_plasmoids/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PKG_CONFIG_PATH=/home/baranov/compiled_plasmoids/lib/pkgconfig:/home/baranov/compiled_plasmoids/share/pkgconfig</value>
+    <value type="QString">PWD=/home/baranov/Documents</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/baranov/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/deep42:@/tmp/.ICE-unix/1848,unix/deep42:/tmp/.ICE-unix/1848</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=1790</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/ssh-xaybcz1744/agent.1744</value>
+    <value type="QString">USER=baranov</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_THEME=oxy-white</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share:/home/baranov/compiled_plasmoids/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=35032c92a1523d1d4a4bb0004adb7f33-1262983989.863057-859261633</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">install</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/baranov/plasmasrc/gioco1/qtcreator-debug-build</value>
+   <value key="workingDirectory" type="QString">/home/baranov/plasmasrc/gioco1/qtcreator-debug-build</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-all-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">all</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SACOOCyGKN,guid=22391df03225c940699e3d754b479b36</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">FOO_ENV=foo_env</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/gpg-LU0iSH/S.gpg-agent:1791:1</value>
+    <value type="QString">GS_LIB=/home/baranov/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/baranov/.gtkrc-2.0:/home/baranov/.gtkrc-2.0-kde4:/home/baranov/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/baranov/.gtkrc::/home/baranov/.kde/share/config/gtkrc</value>
+    <value type="QString">HOME=/home/baranov</value>
+    <value type="QString">KDEDIR=/usr</value>
+    <value type="QString">KDEDIRS=/usr:/home/baranov/compiled_plasmoids</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=1000</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LANGUAGE=</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtcreator-1.3.0/lib/qtcreator:/home/baranov/compiled_plasmoids/lib</value>
+    <value type="QString">LIBGL_DRIVERS_PATH=/usr/lib/dri</value>
+    <value type="QString">LOCALAPPSPREFIX=/home/baranov/compiled_plasmoids</value>
+    <value type="QString">LOGNAME=baranov</value>
+    <value type="QString">PATH=/home/baranov/compiled_plasmoids/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PKG_CONFIG_PATH=/home/baranov/compiled_plasmoids/lib/pkgconfig:/home/baranov/compiled_plasmoids/share/pkgconfig</value>
+    <value type="QString">PWD=/home/baranov/Documents</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/baranov/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/deep42:@/tmp/.ICE-unix/1848,unix/deep42:/tmp/.ICE-unix/1848</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=1790</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/ssh-xaybcz1744/agent.1744</value>
+    <value type="QString">USER=baranov</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_THEME=oxy-white</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share:/home/baranov/compiled_plasmoids/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=35032c92a1523d1d4a4bb0004adb7f33-1262983989.863057-859261633</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/baranov/plasmasrc/gioco1/qtcreator-debug-build</value>
+   <valuelist key="additionalArguments" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+   <value key="cleanConfig" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">all</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="ProjectExplorer.ProcessStep.DisplayName" type="QString">install:</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">CMakeProjectManager.MakeStep</value>
+   <value type="QString">projectexplorer.processstep</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">CMakeProjectManager.MakeStep</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">UTF-8</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

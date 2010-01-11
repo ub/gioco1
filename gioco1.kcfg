@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+   <kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+                                    http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+       <!-- <kcfgfile name="gioco1rc" /> --> <!-- default is ok, not really necessary -->
+
+       <group name="credentials"> <!-- group name is irrelevant to dialog integration ? -->
+        <entry name="login" type="String">
+          <label>user id for google access</label>
+        </entry>
+        <entry name="password" type="Password">
+           <label>a secret information</label>
+        </entry>
+       </group>
+
+   </kcfg>

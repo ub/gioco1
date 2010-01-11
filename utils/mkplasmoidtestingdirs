@@ -1,0 +1,9 @@
+#!/bin/bash
+# Creates directories for local plasmoids installation.
+# Run this script just one time, after plasmoid_development.rc.sh is installed.
+#
+if [ "${LOCALAPPSPREFIX}" == "" ] ; then
+echo "No \$LOCALAPPSPREFIX set. Nothing to create."
+exit
+fi
+mkdir -pv ${LOCALAPPSPREFIX}/bin ${LOCALAPPSPREFIX}/lib/pkgconfig  ${LOCALAPPSPREFIX}/share/pkgconfig  

@@ -1,0 +1,103 @@
+Gioco1 - an Extension to the Plasma Applet "Getting Started" tutorial
+---------------------------------------------------------------------
+
+This program source demonstrates two aspects of plasmoid development.
+1) How an icon could be associated with an applet or and application in KDE4.
+   Several uses for the icon are shown.
+2) How can you create a settings page for the applet.
+   Settings are _automagically_ stored and retrieved from configuration file.
+
+
+
+-- Development --
+
+The code has been created and compiled on Kubuntu 9.10 with:
+
+ - kapptemplate
+ - Qt creator
+ - CMake
+ 
+The icon developed with
+
+ - Inkscape graphics editor
+
+
+
+-- Name --
+
+Gioco means a play, a joke, a game in Italian.
+The applet does not do anything meaningful for an end user.
+I created it while studying development for Qt/KDE4 in my spare time.
+
+ There is little chance for a name clash with another software.
+Only Italian-speaking person may take this for a real application - like 
+a casual game or something. Well, if an user attempts an installation 
+of gioco1, this would result in an unintended silly joke.
+
+
+Also, this is my first program with Plasma/KDE/Qt. Hence "1".
+
+
+-- Created by --
+
+The software 'gioco1' and accompanying graphical image:
+(C) Yuri Baranov, 2010
+
+
+
+You may contact me by *e-mail*
+baranovugmailcom 
+(Add @ and . in proper places)
+
+My *google wave ID* is 
+baranovugooglewavecom
+(Add the punctuation to the line above as well)
+
+Blog
+http://blog.urbylog.info
+
+
+-- Legal/Licensing --
+
+The sofware source code is licensed under GPL v 2.0 license. See COPYING file for the terms and conditions.
+
+
+The graphical image(s)  is/are licensed under Creative Commons Attribution Unported 3.0 License.
+For the full text of the license read the file CREATIVE-COMMONS-BY, 
+You may see human-readable summary of the license at http://creativecommons.org/licenses/by/3.0/.
+
+
+
+
+Plasma Applet Template
+----------------------
+
+You need KDE 4.2
+
+-- Build instructions --
+
+cd /where/your/applet/is/installed
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=$KDEDIRS .. 
+make 
+make install
+
+(your $KDEDIRS is where you install your KDE 4)
+
+Restart plasma to load the applet 
+kquitapp plasma
+plasma
+
+or view it with 
+plasmoidviewer YourAppletName
+
+You might need to run kbuildsycoca4
+in order to get the .desktop file recognized.
+
+-- Tutorials and resources --
+The explanation of the template
+http://techbase.kde.org/index.php?title=Development/Tutorials/Plasma/GettingStarted
+
+Plasma techbase pages
+http://techbase.kde.org/Projects/Plasma
